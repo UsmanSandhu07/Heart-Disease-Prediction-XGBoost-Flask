@@ -25,7 +25,7 @@ This project demonstrates both analytical modeling and practical deployment skil
 ## 📊 Dataset Information
 
 - Publicly available Heart Disease dataset
-- 303 patient records
+- 1025 patient records
 - 13 clinical input attributes
 - Binary classification problem:
   - `1` → Heart Disease Present
